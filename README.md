@@ -7,17 +7,17 @@ Depending on the circumstances, such systems can significantly reduce operationa
 
 
 
-So manily in serverless application we are not deploying our application on any server.
-We can use any thirdparty things to make our application.
+So mainly in the serverless application, we are not deploying our application on any server.
+We can use any third party things to make our application.
 
-So for example today I am making the birthday whisher application.
-In this tutorial I will use Google sheet and Google app script.
+So, for example, today I am making the birthday wishes application.
+In this tutorial, I will use Google sheet and Google app script.
 
-Google Sheet :  for making the sheet to add friend's email address and his birthday.
-Google App script  : to send them beautiful messages on their birthday automatically.
+Google Sheet:  for making the sheet to add friend's email address and his birthday.
+Google App script: to send them beautiful messages on their birthday automatically.
 
-And then schedule this sheet for every day . So it will get the data from sheet check if there is any one whose birthday is today ?
-If yes then send them email.
+And then schedule this sheet for every day. So it will get the data from sheet check if there is anyone whose birthday is today?
+If yes then send them an email.
 
 Please check the committed excel sheet copy it in your google sheet.
 You can also make yours.
